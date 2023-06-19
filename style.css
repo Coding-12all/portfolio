@@ -1,0 +1,297 @@
+
+#one{
+    width:300px;
+    background-color:#5c5654;
+    height:1000px;
+    margin-top: -10px;
+    margin-left: -10px;
+    position:sticky;
+}
+#two{
+height:1000px;
+width:300px;
+background-color: #5c5654;
+
+position: fixed;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    
+}
+#t1{
+   float: right; 
+   margin-top: 200px;
+   margin-right: 160px;
+}
+#t1:hover{
+    color:orangered;
+}
+#t2{
+    float: right; 
+    margin-top: 20px;
+    margin-right: 160px;
+}
+#t2:hover{
+    color:orangered;
+}
+#t3{
+    float: right; 
+    margin-top: 20px;
+    margin-right: 170px;
+}
+#t3:hover{
+    color:orangered;
+}
+#t4{
+    float: right; 
+    margin-top: 20px;
+    margin-right: 150px;
+}
+#t4:hover{
+    color:orangered;
+}
+#t5{
+    float: right; 
+    margin-top: 20px;
+    margin-right: 150px;
+}
+#t5:hover{
+    color:orangered;
+}
+#photo{
+    width:200px;
+    height:200px;
+    border-radius: 100%;
+    float: right;
+    margin-top: -900px;
+    margin-right: 350px;
+    background-color:orangered ;
+    padding:5px;
+}
+h2{
+    color:white;
+    width:200px;
+    height:300px;
+    float: right;
+    margin-top: -680px;
+    margin-right: 350px;
+}
+#Home{
+    color:orangered;
+}
+#am{
+    color:white;
+    float:right;
+    margin-top: -600px;
+    margin-right: 800px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#tt{
+   color:orangered ;
+}
+#photo1{
+    float:right;
+    width:300px;
+    height:400px;
+    margin-top: -550px;
+    margin-right: 630px;
+    padding: 5px;
+    background-color:white;
+
+}
+#name{
+    float: right;
+    color:white;
+    margin-top:-550px;
+    margin-right: 300px;
+    font-family: arial;
+    color:orangered ;
+}
+#about{
+    color:white;
+    float:right;
+    margin-top: -500px;
+    margin-right: 140px;
+    font-family: Bodoni MT;
+    font-size: 20px;
+}
+#pd{
+    color:white;
+    font-family: arial;
+    float:right;
+    margin-top:-400px;
+    margin-right: 550px;
+    font-size: 20px;
+}
+#cr{
+    color:orangered;
+}
+#pd1{
+    color:white;
+    font-family: arial;
+    float:right;
+    margin-top:-350px;
+    margin-right: 480px;
+    font-size: 20px;
+}
+#cr1{
+    color:orangered;
+}
+#pd2{
+    color:white;
+    font-family: arial;
+    float:right;
+    margin-top:-300px;
+    margin-right: 390px;
+    font-size: 20px;
+}
+#cr2{
+    color:orangered;
+}
+#skills{
+    color:white;
+    float:right;
+    margin-top: -100px;
+    margin-right: 830px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#tt1{
+   color:orangered ;
+}
+#txt{
+    float: right;
+    color:orangered;
+    margin-top: -50px;
+    margin-right: 870px;
+    
+}
+#txt2{
+    width:50px;
+    height:30px;
+    float:right;
+    margin-top: -60px;
+    margin-right: 800px;
+}
+#txt3{
+    float: right;
+    color:orangered;
+    margin-top: -10px;
+    margin-right: 870px;
+    
+}
+#txt4{
+    width:50px;
+    height:30px;
+    float:right;
+    margin-top: -45px;
+    margin-right: 800px;
+}
+#txt5{
+    float: right;
+    color:orangered;
+    margin-top: -10px;
+    margin-right: 850px;
+    
+}
+#txt6{
+    width:50px;
+    height:30px;
+    float:right;
+    margin-top: -45px;
+    margin-right: 800px;
+}
+#txt7{
+    float: right;
+    color:orangered;
+    margin-top: -10px;
+    margin-right: 870px;
+    
+}
+#txt8{
+    width:50px;
+    height:30px;
+    float:right;
+    margin-top: -45px;
+    margin-right: 800px;
+}
+#projects{
+    color:white;
+    float: right;
+    margin-top: 20px;
+    margin-right:820px;
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
+#ui{
+    color: orangered;
+}
+#pr1{
+    color:orangered;
+    float: right;
+    margin-right: -130px;
+   
+    margin-top: 60px;
+}
+ video{
+    height:300px;
+    width:300px;
+    margin-left:300px;
+    margin-top: 30px; 
+} 
+#pr2{
+    color:orangered;
+    float: right;
+    margin-right: 250px;
+    
+    
+}
+img{
+    width:300px;
+    height:200px;
+    float:left;
+    margin-top: -250px;
+    margin-left: 800px;
+}
+#contact{
+    float:right;
+    color:white;
+    margin-right: 830px;
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
+#ct{
+    color: orangered;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#imgs{
+    width:50px;
+    height:50px;
+    margin-top: 10px;
+    margin-left:300px;
+}
+#imgs1{
+    width:50px;
+    height:50px;
+    margin-top: 10px;
+    margin-left:100px;
+}
+#imgs2{
+    width:50px;
+    height:50px;
+    margin-top: 10px;
+    margin-left:100px;
+}
+#imgs3{
+    width:50px;
+    height:50px;
+    margin-top: 10px;
+    margin-left:100px;
+}
